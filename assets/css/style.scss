@@ -5,10 +5,7 @@
 
 $color-red: #E55E4F;
 $color-green: #59A893;
-$color-blue: #F7D763;
+$color-yellow: #F7D763;
 
-header {background-color: #59A893;}
-#banner {background-color: #F7D763;}
-h1 { color: $color-red; }
-p { color: $color-green; }
-a { color: $color-blue; }
+header {background-color: $color-red;}
+#banner {background-color: $color-yellow;}
