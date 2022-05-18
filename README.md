@@ -13,37 +13,37 @@ En el curso de GitHub Basics aprenderás a..
 
 ### Primeros pasos
 
-- [Bienvenida al curso](https://patroneshermosos-oficial.github.io/github-basics/primeros-pasos/#Bienvenida al curso)
+- [Bienvenida al curso](https://patroneshermosos-oficial.github.io/github-basics/primeros-pasos)
 - [Introducción a GitHub](https://patroneshermosos-oficial.github.io/github-basics/primeros-pasos)
 - [Creando tu cuenta de GitHub](https://patroneshermosos-oficial.github.io/github-basics/primeros-pasos)
 
 ### Módulo 1. GitHub Web
 
-- [Introducción al módulo]()
-- [Creando un repositorio]()
-- [Manejo de archivos]()
-- [Fork y notificaciones]()
-- [Pull request]()
-- [Cierre de módulo]()
+- [Introducción al módulo](https://patroneshermosos-oficial.github.io/github-basics/modulo-uno)
+- [Creando un repositorio](https://patroneshermosos-oficial.github.io/github-basics/modulo-uno)
+- [Manejo de archivos](https://patroneshermosos-oficial.github.io/github-basics/modulo-uno)
+- [Fork y notificaciones](https://patroneshermosos-oficial.github.io/github-basics/modulo-uno)
+- [Pull request](https://patroneshermosos-oficial.github.io/github-basics/modulo-uno)
+- [Cierre de módulo](https://patroneshermosos-oficial.github.io/github-basics/modulo-uno)
 
 ### Módulo 2. GitHub Terminal y Desktop
 
-- [Introducción al módulo]()
-- [Alternativas al navegador. Terminal y GitHub desktop]()
-- [Instalación de GitHub desktop]()
-- [Creando un repositorio - Opción 1]()
-- [Publicando un repositorio en la web]()
-- [Creando un repositorio - Opción 2]()
-- [Manejando los cambios]()
-- [Clonando un repositorio]()
-- [Haciendo fork de un repositorio]()
-- [Crear pull request en GitHub desktop]()
-- [¿Cómo aceptar o rechazar un pull request?]()
-- [Cierre de módulo]()
+- [Introducción al módulo](https://patroneshermosos-oficial.github.io/github-basics/modulo-dos)
+- [Alternativas al navegador. Terminal y GitHub desktop](https://patroneshermosos-oficial.github.io/github-basics/modulo-dos)
+- [Instalación de GitHub desktop](https://patroneshermosos-oficial.github.io/github-basics/modulo-dos)
+- [Creando un repositorio - Opción 1](https://patroneshermosos-oficial.github.io/github-basics/modulo-dos)
+- [Publicando un repositorio en la web](https://patroneshermosos-oficial.github.io/github-basics/modulo-dos)
+- [Creando un repositorio - Opción 2](https://patroneshermosos-oficial.github.io/github-basics/modulo-dos)
+- [Manejando los cambios](https://patroneshermosos-oficial.github.io/github-basics/modulo-dos)
+- [Clonando un repositorio](https://patroneshermosos-oficial.github.io/github-basics/modulo-dos)
+- [Haciendo fork de un repositorio](https://patroneshermosos-oficial.github.io/github-basics/modulo-dos)
+- [Crear pull request en GitHub desktop](https://patroneshermosos-oficial.github.io/github-basics/modulo-dos)
+- [¿Cómo aceptar o rechazar un pull request?](https://patroneshermosos-oficial.github.io/github-basics/modulo-dos)
+- [Cierre de módulo](https://patroneshermosos-oficial.github.io/github-basics/modulo-dos)
 
 ### Módulo 3. Proyecto final
 
-- [Lineamientos del proyecto final y cierre del curso]()
+- [Lineamientos del proyecto final y cierre del curso](https://patroneshermosos-oficial.github.io/github-basics/proyecto-final)
 
 ## Soporte
 
