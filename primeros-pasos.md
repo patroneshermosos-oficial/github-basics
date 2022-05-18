@@ -1,3 +1,4 @@
+# Primeros Pasos
 ## Introducción a GitHub
 En esta lección aprenderás las principales diferencias entre Git y Github, 
 así como los principales beneficios que nos ofrecen, para sacarles el mejor provecho. 
@@ -19,3 +20,13 @@ solo necesitarás un correo electrónico.
 para crear tu cuenta.* 
 
 [Link al documento!](https://hanolisite.wordpress.com/2019/09/14/5-pasos-para-crear-una-cuenta-en-github/)
+
+
+# Contenido
+
+- [Home](https://patroneshermosos-oficial.github.io/github-basics)
+- [Primeros pasos](https://patroneshermosos-oficial.github.io/github-basics/primeros-pasos)
+- [Módulo Uno](https://patroneshermosos-oficial.github.io/github-basics/modulo-uno)
+- [Módulo Dos](https://patroneshermosos-oficial.github.io/github-basics/modulo-dos)
+- [Proyecto Final](https://patroneshermosos-oficial.github.io/github-basics/proyecto-final)
+
