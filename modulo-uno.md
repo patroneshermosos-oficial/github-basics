@@ -51,7 +51,7 @@ Si tienes alguna sugerencia, no dudes en hacérnosla saber para mejorar el curso
 
 *Para cualquier duda, contáctanos por medio del chat de este video y nosotras contestaremos. O si conoces alguna otra forma de comunicación, háznoslo saber igualmente en los comentarios.*
 
-
+* * *
 
 # Contenido
 
