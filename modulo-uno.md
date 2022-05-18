@@ -3,7 +3,9 @@
 ## Introducción al módulo
 Bienvenidas a la primera lección del curso, les recuerdo seguir paso a paso las instrucciones del video.
 
-[![Da clic para ver el video](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)]([https://www.youtube.com/watch?v=iS4tYPlyPXY](https://youtu.be/iS4tYPlyPXY))
+<a href="https://www.youtube.com/watch?v=iS4tYPlyPXY
+" target="_blank"><img src="http://img.youtube.com/vi/iS4tYPlyPXY/0.jpg" 
+alt="Da clic para ver el video" width="240" height="180" border="10" /></a>
 
 *Para cualquier duda, contáctanos por medio del chat de este video y nosotras contestaremos. O si conoces alguna otra forma de comunicación, háznoslo saber igualmente en los comentarios.*
 
@@ -11,14 +13,14 @@ Bienvenidas a la primera lección del curso, les recuerdo seguir paso a paso las
 En esta lección, aprenderemos a crear un repositorio nuevo (de lo que gusten) e invitar aunque sea a una persona 
 al repositorio (pueden usar mi usuario si no conocen a nadie). 
 
-[![Da clic para ver el video](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)]([https://www.youtube.com/watch?v=iS4tYPlyPXY](https://youtu.be/iS4tYPlyPXY))
+[![Da clic para ver el video](http://img.youtube.com/vi/iS4tYPlyPXY/0.jpg)](https://www.youtube.com/watch?v=iS4tYPlyPXY)
 
 *Para cualquier duda, contáctanos por medio del chat de este video y nosotras contestaremos. O si conoces alguna otra forma de comunicación, háznoslo saber igualmente en los comentarios.*
 
 ## Manejo de archivos
 En esta lección aprenderemos a crear un archivo (de lo que gustes) y modificarlo (update).
 
-[![Da clic para ver el video](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)]([https://www.youtube.com/watch?v=iS4tYPlyPXY](https://youtu.be/iS4tYPlyPXY))
+[![Da clic para ver el video](http://img.youtube.com/vi/iS4tYPlyPXY/0.jpg)](https://www.youtube.com/watch?v=iS4tYPlyPXY)
 
 *Para cualquier duda, contáctanos por medio del chat de este video y nosotras contestaremos. O si conoces alguna otra forma de comunicación, háznoslo saber igualmente en los comentarios.*
 
