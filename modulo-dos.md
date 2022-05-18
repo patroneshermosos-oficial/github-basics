@@ -158,7 +158,7 @@ Si tienes alguna sugerencia, no dudes en hacérnosla saber para mejorar el curso
 
 [Link al video!](https://www.youtube.com/watch?v=-Ez5gVpbd8Q&list=PLI-z6o9BMa6MT_hKWuHES0AjrPsHujCf6&index=20)
 
-
+* * *
 
 # Contenido
 
