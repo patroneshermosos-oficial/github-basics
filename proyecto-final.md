@@ -53,6 +53,7 @@ que puedan potencializar sus proyectos.
 
 Para tener acceso a tu insignia, contesta este formulario y te la haremos llegar por correo electrónico
 
+* * *
 
 # Contenido
 
