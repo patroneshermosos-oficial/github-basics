@@ -26,7 +26,7 @@ En el curso de GitHub Basics aprenderás a..
 - [Pull request]()
 - [Cierre de módulo]()
 
-### Módulo 2. GitHub Desktop
+### Módulo 2. GitHub Terminal y Desktop
 
 - [Introducción al módulo]()
 - [Alternativas al navegador. Terminal y GitHub desktop]()
@@ -60,8 +60,12 @@ Cualquier mejora a la Guía no dudes en hacernoslo notar a través de un Issue.
 ## Equipo
 
 Gracias a quienes participaron en la creación, desarrollo y publicación de este curso.
-Cris
-Fer
-Dany
-Mariana
-Abel
+- Dirección del Curso: PhD Abel
+- Diseño del Curso: Dani y Mariana
+- Publicación y Edición: Esp. Caro
+
+- Instructoras Introducción: Cris y Fer
+- Instructora Módulo 1: Dani
+- Instructora Módulo 2: Mariana
+- Instructora Módulo 3: Mariana
+- Documentación: Mariana, Fer y Dani
