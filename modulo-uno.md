@@ -15,14 +15,13 @@ al repositorio (pueden usar mi usuario si no conocen a nadie).
 
 <a href="https://www.youtube.com/watch?v=iS4tYPlyPXY
 " target="_blank"><img src="http://img.youtube.com/vi/iS4tYPlyPXY/0.jpg" 
-alt="Da clic para ver el video" width="240" height="180" border="50" /></a>
+alt="Da clic para ver el video" width="240" height="180" border="15" /></a>
 
 *Para cualquier duda, contáctanos por medio del chat de este video y nosotras contestaremos. O si conoces alguna otra forma de comunicación, háznoslo saber igualmente en los comentarios.*
 
 ## Manejo de archivos
 En esta lección aprenderemos a crear un archivo (de lo que gustes) y modificarlo (update).
 
-[![Da clic para ver el video](http://img.youtube.com/vi/iS4tYPlyPXY/0.jpg)](https://www.youtube.com/watch?v=iS4tYPlyPXY)
 
 *Para cualquier duda, contáctanos por medio del chat de este video y nosotras contestaremos. O si conoces alguna otra forma de comunicación, háznoslo saber igualmente en los comentarios.*
 
@@ -30,7 +29,6 @@ En esta lección aprenderemos a crear un archivo (de lo que gustes) y modificarl
 En este video veremos cómo utilizar el fork y activar nuestras notificaciones.
 Estaré haciendo los pasos necesarios para activar las notificaciones y utilizar el fork al igual que explicar su función, así que sígueme para que tú también lo puedas aprender. Si en algún momento sientes que voy muy rápido, puedes pausar el video e ir a tu ritmo.
 
-[![Da clic para ver el video](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)]([https://www.youtube.com/watch?v=iS4tYPlyPXY](https://youtu.be/iS4tYPlyPXY))
 
 *Para cualquier duda, contáctanos por medio del chat de este video y nosotras contestaremos. O si conoces alguna otra forma de comunicación, háznoslo saber igualmente en los comentarios.*
 
@@ -39,7 +37,7 @@ En este video crearemos nuestro primer pull request.
 Estaré haciendo los pasos necesarios para crear un pull request, así que sígueme para que tú también puedas crear el tuyo. Si en algún momento sientes que voy muy rápido, puedes pausar el video e ir a tu ritmo.
 
 Recuerden seguir paso a paso los videos, dejaré el url de mi repositorio para que ustedes puedan experimentar con el pull request.
-[![Da clic para ver el video](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)]([https://www.youtube.com/watch?v=iS4tYPlyPXY](https://youtu.be/iS4tYPlyPXY))
+
 
 *Para cualquier duda, contáctanos por medio del chat de este video y nosotras contestaremos. O si conoces alguna otra forma de comunicación, háznoslo saber igualmente en los comentarios.*
 
@@ -50,6 +48,5 @@ Si llegaste hasta aquí, completaste exitosamente el curso y obtuviste el primer
 
 Si tienes alguna sugerencia, no dudes en hacérnosla saber para mejorar el curso.
 
-[![Da clic para ver el video](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)]([https://www.youtube.com/watch?v=iS4tYPlyPXY](https://youtu.be/iS4tYPlyPXY))
 
 *Para cualquier duda, contáctanos por medio del chat de este video y nosotras contestaremos. O si conoces alguna otra forma de comunicación, háznoslo saber igualmente en los comentarios.*
