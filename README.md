@@ -13,9 +13,9 @@ En el curso de GitHub Basics aprenderás a..
 
 ### Primeros pasos
 
-- [Bienvenida al curso]()
-- [Introducción a GitHub]()
-- [Creando tu cuenta de GitHub]()
+- [Bienvenida al curso](https://patroneshermosos-oficial.github.io/github-basics/primeros-pasos/#Bienvenida al curso)
+- [Introducción a GitHub](https://patroneshermosos-oficial.github.io/github-basics/primeros-pasos)
+- [Creando tu cuenta de GitHub](https://patroneshermosos-oficial.github.io/github-basics/primeros-pasos)
 
 ### Módulo 1. GitHub Web
 
