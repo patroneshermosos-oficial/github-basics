@@ -5,7 +5,7 @@ Bienvenidas a la primera lección del curso, les recuerdo seguir paso a paso las
 
 <a href="https://www.youtube.com/watch?v=iS4tYPlyPXY
 " target="_blank"><img src="http://img.youtube.com/vi/iS4tYPlyPXY/0.jpg" 
-alt="Da clic para ver el video" width="240" height="180" border="10" /></a>
+alt="Da clic para ver el video" width="240" height="180" border="50" /></a>
 
 *Para cualquier duda, contáctanos por medio del chat de este video y nosotras contestaremos. O si conoces alguna otra forma de comunicación, háznoslo saber igualmente en los comentarios.*
 
@@ -13,7 +13,9 @@ alt="Da clic para ver el video" width="240" height="180" border="10" /></a>
 En esta lección, aprenderemos a crear un repositorio nuevo (de lo que gusten) e invitar aunque sea a una persona 
 al repositorio (pueden usar mi usuario si no conocen a nadie). 
 
-[![Da clic para ver el video](http://img.youtube.com/vi/iS4tYPlyPXY/0.jpg)](https://www.youtube.com/watch?v=iS4tYPlyPXY)
+<a href="https://www.youtube.com/watch?v=iS4tYPlyPXY
+" target="_blank"><img src="http://img.youtube.com/vi/iS4tYPlyPXY/0.jpg" 
+alt="Da clic para ver el video" width="240" height="180" border="50" /></a>
 
 *Para cualquier duda, contáctanos por medio del chat de este video y nosotras contestaremos. O si conoces alguna otra forma de comunicación, háznoslo saber igualmente en los comentarios.*
 
