@@ -21,6 +21,7 @@ para crear tu cuenta.*
 
 [Link al documento!](https://hanolisite.wordpress.com/2019/09/14/5-pasos-para-crear-una-cuenta-en-github/)
 
+* * *
 
 # Contenido
 
