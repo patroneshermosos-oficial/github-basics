@@ -20,6 +20,7 @@ alt="Da clic para ver el video" width="240" height="180"/></a>
 ## Manejo de archivos
 
 En esta lección aprenderemos a crear un archivo (de lo que gustes) y modificarlo (update).
+![Video](https://www.youtube.com/watch?v=iS4tYPlyPXY)
 
 ## Fork y notificaciones
 
