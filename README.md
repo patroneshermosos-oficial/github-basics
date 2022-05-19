@@ -4,7 +4,7 @@ Esta página está dedicada a guiarte por el contenido del curso "Fundamentales 
 
 ## Introducción
 
-[Patrones Hermoso](www.patroneshermosos.com) es una iniciativa surgida en 2018 desde el MIT.
+[Patrones Hermosos](www.patroneshermosos.com) es una iniciativa surgida en 2018 desde el MIT.
 Brindamos educación accesible y de calidad con el objetivo de aumentar la representación de las mujeres de LATAM en áreas STEM.
 
 A través de videos de YouTube podrás seguir a nuestras instructoras, estudiantes de Ingeniería de la Universidad Panamericana en México, sobre los temas delineados en el [Temario](https://patroneshermosos-oficial.github.io/github-basics/primeros-pasos#contenido)
