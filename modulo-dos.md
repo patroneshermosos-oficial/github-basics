@@ -112,7 +112,7 @@ Si lo que vimos en esta lección te dejó con dudas, puedes consultar [este vide
 
 En esta lección aprenderemos a clonar un repositorio desde la Web a Github Desktop. Para esta sesión, solo necesitarás tener instalado [Github Desktop](https://desktop.github.com/), así que si aún no lo tienes, da click al enlace.
 
-<a href=https://youtu.be/tUHwS_qasnY
+<a href="https://youtu.be/tUHwS_qasnY
 " target="\_blank"><img src="http://img.youtube.com/vi/tUHwS_qasnY/0.jpg" 
 alt="Da clic para ver el video" width="240" height="180"/></a>
 
