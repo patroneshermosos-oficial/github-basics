@@ -74,7 +74,6 @@ Gracias a quienes participaron en la creación, desarrollo y publicación de est
 - Dirección del Curso: PhD Abel
 - Diseño del Curso: Dani y Mariana
 - Publicación y Edición: Esp. Caro
-
 - Instructoras Introducción: Cris y Fer
 - Instructora Módulo 1: Dani
 - Instructora Módulo 2: Mariana
